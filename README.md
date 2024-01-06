@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/ManideepTelukuntla/Marketing-Budget-Allocation-Optimization/blob/main/Images/Marketing-Budget-Allocation-Banner.svg" width="800" height="600" alt="Stock Portfolio Optimization">
   <br>
-  <p><a href="https://www.freepik.com/free-vector/generating-new-leads-concept-illustration_19949473.htm#query=customer%20segmentation%20illustration&position=4&from_view=search&track=ais&uuid=9dff4445-cbd7-4392-a39e-c1d65b720ac2">Image by storyset</a> on Freepik</p>
+  <p><a href="https://www.freepik.com/free-vector/marketing-consulting-concept-illustration_25025577.htm#query=marketing%20illustration&position=1&from_view=search&track=ais&uuid=80bd5c5b-a1ff-4a5e-8768-b832818571e8">Image by storyset</a> on Freepik</p>
 </div>
 
 ## Table of Contents
