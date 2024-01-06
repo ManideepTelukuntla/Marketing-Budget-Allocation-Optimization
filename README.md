@@ -1,5 +1,11 @@
 # Marketing Budget Allocation Optimization
 
+<div align="center">
+  <img src="https://github.com/ManideepTelukuntla/Marketing-Budget-Allocation-Optimization/blob/main/Images/Marketing-Budget-Allocation-Banner.svg" width="800" height="600" alt="Stock Portfolio Optimization">
+  <br>
+  <p>Image by Freepik</p>
+</div>
+
 ## Table of Contents
 1. [Introduction/Overview](#1-introductionoverview)
 2. [Objective](#2-objective)
@@ -39,6 +45,7 @@ Enhancing ROI across diverse platforms including Print, TV, SEO, AdWords, Facebo
 - **`Marketing-Budget-Allocation-Report.ipynb`**: This Jupyter Notebook contains Python code for finding optimal strategies for allocating marketing budget.
 - **`Marketing-Budget-Allocation-Report.pdf`**: A comprehensive report explaining the methodologies, analytical processes, and valuable insights pertaining to marketing budget allocation.
 - **`Data`**: Folder containing datasets used in this project.
+- **`Images`**: Folder with images pertaining to this project.
 
 ## 6. Data Collection and Sources
 
